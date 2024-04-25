@@ -63,4 +63,4 @@ jobs:
           app-name: 'saelibrary'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C5E2E58DC8EC439892A5D1209572E79F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_795AC82E3E9A43E69D7E033C14BC5FE1 }}
